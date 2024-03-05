@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Pllum Rashica!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm Pllum Rashica!](assets/header.gif)](https://github.com/pllumrashica)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pllumrashica/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pellumbrashica1@Gmail.com?subject=Hello%20Pllumi,%20From%20Github)
