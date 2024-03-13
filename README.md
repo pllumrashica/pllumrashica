@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Pllumi!](assets/header.gif)](https://github.com/kshyun28)
+[[Hello World, I'm Pllumi!](assets/header.gif)](https://github.com/pllumrashica)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 
