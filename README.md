@@ -9,7 +9,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I’m currently working at [BrandOne Marketing]([https://www.linkedin.com/company/p33r-finance/](https://brandone-marketing.de/))
+- 🔭 I’m currently working at [BrandOne Marketing - https://brandone-marketing.de/]([https://www.linkedin.com/company/p33r-finance/](https://brandone-marketing.de/))
 - 🌱 I’m passionate about [MERN STACK]([https://aws.amazon.com/serverless/](https://www.mongodb.com/mern-stack)) and [AI]([https://ethereum.org/en/web3/](https://en.wikipedia.org/wiki/Artificial_intelligence)).
 - ⚡ Fun fact: I read books and play games!
 
