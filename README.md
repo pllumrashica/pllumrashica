@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Pllumi!](assets/header.gif)](https://github.com/pllumrashica)
+[![Hello World, I'm Pllumi!](assets/header-bg.gif)](https://github.com/pllumrashica)
 Background GIF by [Matthew Butler]([https://www.pinterest.com/pin/5277724550564022/](https://www.pinterest.com/pin/566890671861210044/)) on [Pinterest](https://www.pinterest.com/).
 
 
