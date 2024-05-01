@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Pllumi!](assets/header-bg.gif)](https://github.com/pllumrashica)
+[![Hello World, I'm Pllumi!](assets/programmer-typing.gif)](https://github.com/pllumrashica)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pllumrashica/) &nbsp;
