@@ -20,7 +20,7 @@
 
 ## 💻 My Tech Stack:
 
-[![HTML,CSS,JS,REACTJS,NEXTJS,NODEJS,NESTJS,PYTHON,PHP,MYSQL,MONGODB,WORDPRESS,PHOTOSHOP,ADOBE ILLUSTRATOR](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,nestjs,py,php,mysql,mongodb,wordpress,ps,ai)](https://skillicons.dev)
+[![HTML,CSS,JS,REACTJS,NEXTJS,NODEJS,NESTJS,PHP,MYSQL,MONGODB,WORDPRESS,PHOTOSHOP,ADOBE ILLUSTRATOR](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,nestjs,php,mysql,mongodb,wordpress,ps,ai)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
