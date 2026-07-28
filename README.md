@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently CEO at [Bee Builds - https://bee-builds.com/]([https://www.linkedin.com/company/p33r-finance/](https://bee-builds.com/))
+- 🔭 I’m currently looking for a job.
 - 🌱 I’m passionate about [MERN STACK]([https://aws.amazon.com/serverless/](https://www.mongodb.com/mern-stack)) and [AI]([https://ethereum.org/en/web3/](https://en.wikipedia.org/wiki/Artificial_intelligence)).
 - ⚡ Fun fact: I read books and play games!
 
