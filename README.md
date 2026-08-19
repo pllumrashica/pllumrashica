@@ -1,33 +1,58 @@
 <div align="center">
 
-[![Hello World, I'm Pllumi!](assets/programmer-typing.gif)](https://github.com/pllumrashica)
+<a href="https://github.com/pllumrashica">
+  <img src="assets/programmer-typing.gif" width="700" alt="Pëllumb Rashica coding" />
+</a>
 
+<br/>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pllumrashica/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pellumbrashica1@Gmail.com?subject=Hello%20Pllumi,%20From%20Github)
+# Hey, I'm Pëllumb Rashica 👋
 
-</div>
-
-- 🔭 I’m currently looking for a job.
-- 🌱 I’m passionate about [MERN STACK]([https://aws.amazon.com/serverless/](https://www.mongodb.com/mern-stack)) and [AI]([https://ethereum.org/en/web3/](https://en.wikipedia.org/wiki/Artificial_intelligence)).
-- ⚡ Fun fact: I read books and play games!
-
-<div align="center">
-
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## 💻 My Tech Stack:
-
-[![HTML,CSS,JS,REACTJS,NEXTJS,NODEJS,NESTJS,PHP,MYSQL,MONGODB,WORDPRESS,PHOTOSHOP,ADOBE ILLUSTRATOR](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,nestjs,php,mysql,mongodb,wordpress,ps,ai)](https://skillicons.dev)
-
-## 🏆 My Stats:
+### Full-Stack Developer · Digital Builder · AI Enthusiast
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pllumrashica&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllumrashica&layout=compact&theme=dark" />&nbsp;&nbsp;
+I build modern web experiences, scalable applications, and digital products.<br/>
+From idea → design → code → production.
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/pllumrashica/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pellumbrashica1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
+
+---
+
+## `> whoami`
+
+```typescript
+const pllumi = {
+  name: "Pëllumb Rashica",
+  role: "Full-Stack Developer",
+
+  focus: [
+    "Web Development",
+    "AI & Automation",
+    "Digital Products",
+    "Creative Development",
+  ],
+
+  currentlyLearning: [
+    "Advanced AI Integrations",
+    "Scalable System Architecture",
+    "Automation",
+  ],
+
+  openTo: [
+    "Full-Time Opportunities",
+    "Interesting Projects",
+    "Collaborations",
+  ],
+
+  philosophy: "Don't just make it work. Make it worth using.",
+};
